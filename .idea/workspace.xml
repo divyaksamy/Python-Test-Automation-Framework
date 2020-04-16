@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="750b39bc-f138-4c04-a27d-74c1b6c69a3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ac5piPxvaNOp1zf0oF5k9pWTwl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_suite_demo.py">
+    <configuration name="pytest for test_login.LoginTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_suite_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_suite_demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_suite_demo.py" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest for test_login.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="750b39bc-f138-4c04-a27d-74c1b6c69a3b" name="Default Changelist" comment="" />
+      <created>1587022225626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587022225626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom" timestamp="1587023021035">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587022632735" />
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587023021035" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center" timestamp="1587023021034">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587022632734" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587023021034" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left" timestamp="1587023021031">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587022632733" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587023021031" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right" timestamp="1587023021035">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587022632734" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587023021035" />
+    <state x="229" y="58" key="SettingsEditor" timestamp="1587022457529">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="229" y="58" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1587022457529" />
+  </component>
+</project>

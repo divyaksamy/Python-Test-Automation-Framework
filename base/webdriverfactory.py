@@ -28,11 +28,11 @@ class WebDriverFactory:
         """
 
         if self.browser == "firefox":
-            driver = webdriver.Firefox()
+            driver = webdriver.Firefox("/Users/karthickdhivya/Downloads/geckodriver")
 
         elif self.browser == "chrome":
             # Set Chrome driver
-            driverLocation = "/users/karimelkomy/PycharmProjects/lib/chromedriver"
+            driverLocation = "/Users/karthickdhivya/Downloads/chromedriver"
             os.environ["webdriver.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)
             driver.set_window_size(1366, 768)

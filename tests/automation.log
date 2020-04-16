@@ -1,0 +1,22 @@
+04/16/2020 01:13:06 PM - HomeNavigation - INFO: Element found with locator: //a[contains(text(),'Login')] and locatorType: xpath
+04/16/2020 01:13:06 PM - HomeNavigation - INFO: clicked on element with locator: //a[contains(text(),'Login')] locatorType: xpath
+04/16/2020 01:13:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: navigation to login page failed
+04/16/2020 01:13:12 PM - LoginPage - INFO: Element found with locator: //input[@id='user_email'] and locatorType: xpath
+04/16/2020 01:13:13 PM - LoginPage - INFO: send data on element with locator: //input[@id='user_email'] locatorType: xpath
+04/16/2020 01:13:13 PM - LoginPage - INFO: Element found with locator: //input[@id='user_password'] and locatorType: xpath
+04/16/2020 01:13:13 PM - LoginPage - INFO: send data on element with locator: //input[@id='user_password'] locatorType: xpath
+04/16/2020 01:13:13 PM - LoginPage - INFO: Element found with locator: //input[@value='Log In'] and locatorType: xpath
+04/16/2020 01:13:20 PM - LoginPage - INFO: clicked on element with locator: //input[@value='Log In'] locatorType: xpath
+04/16/2020 01:13:20 PM - LoggedInPage - INFO: Element list found with locator: //input[@id='search-courses'] and locatorType: xpath
+04/16/2020 01:13:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: login failed
+04/16/2020 01:13:53 PM - HomeNavigation - INFO: Element found with locator: //a[contains(text(),'Login')] and locatorType: xpath
+04/16/2020 01:13:53 PM - HomeNavigation - INFO: clicked on element with locator: //a[contains(text(),'Login')] locatorType: xpath
+04/16/2020 01:13:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: navigation to login page failed
+04/16/2020 01:13:58 PM - LoginPage - INFO: Element found with locator: //input[@id='user_email'] and locatorType: xpath
+04/16/2020 01:13:59 PM - LoginPage - INFO: send data on element with locator: //input[@id='user_email'] locatorType: xpath
+04/16/2020 01:13:59 PM - LoginPage - INFO: Element found with locator: //input[@id='user_password'] and locatorType: xpath
+04/16/2020 01:13:59 PM - LoginPage - INFO: send data on element with locator: //input[@id='user_password'] locatorType: xpath
+04/16/2020 01:13:59 PM - LoginPage - INFO: Element found with locator: //input[@value='Log In'] and locatorType: xpath
+04/16/2020 01:14:07 PM - LoginPage - INFO: clicked on element with locator: //input[@value='Log In'] locatorType: xpath
+04/16/2020 01:14:07 PM - LoggedInPage - INFO: Element list found with locator: //input[@id='search-courses'] and locatorType: xpath
+04/16/2020 01:14:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: login failed

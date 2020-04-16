@@ -18,7 +18,7 @@ class BasePage(SeleniumDriver):
         :param page: page
         :return: list of all locators in specific page
         """
-        locatorsPath = os.path.abspath("./locators/locators.json")
+        locatorsPath = os.path.abspath("/Users/karthickdhivya/Documents/GitHub/Python-Test-Automation-Framework/locators/locators.json")
         locatorsJsonFile = RJ.readJson(locatorsPath)
         pageLocators = [locator for locator in locatorsJsonFile if locator['pageName'] in page]
         return pageLocators
